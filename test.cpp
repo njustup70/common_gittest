@@ -22,7 +22,7 @@ class father
 
 void father::cure()
 {
-	HP++;
+	HP+=10;
 }
 
 int main()
